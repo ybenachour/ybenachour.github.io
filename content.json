@@ -1,0 +1,257 @@
+{
+  "publications": [
+    {
+      "title": "Interpretable Joint Movement Classification via Combinatorial DTW Medoid Distances and Ensemble Feature Selection",
+      "authors": "Kedir, Elham Mohammed; Tilahun, Mihretab Assefa; Bona, Gete; Rehman, Moez; Flitti, Farid; Benachour, Yassine",
+      "venue": "2026 Intelligent Information Systems and Computing Conference (IISCC): Artificial Intelligence and Intelligent Systems",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Prototype-Based DTW Feature Representation for Upper Limb Movement Classification from Multichannel IMU Signals",
+      "authors": "Bona, Gete; Tilahun, Mihretab Assefa; Kedir, Elham Mohammed; Rehman, Moez; Flitti, Farid; Benachour, Yassine",
+      "venue": "2026 Intelligent Information Systems and Computing Conference (IISCC): Artificial Intelligence and Intelligent Systems",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Hybrid Multi-Task LSTM Autoencoder for Semantic Anomaly Diagnosis in Rehabilitation Monitoring Systems",
+      "authors": "Benachour, Yassine; Endale, Amanuel Mulugeta; Balcha, Abel Bekele; Damtie, Amanuel Addisu; Eshetu, Sifana Habtamu; Araya, Saron Tesfaye",
+      "venue": "2026 International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS): CCNCPS 2026 Early Track",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Explainable Deep Learning for Skin Health: Uncovering Genetic and Lifestyle Influences",
+      "authors": "Benachour, Yassine; Maloukh, Lina; Feyera, Milki Teshome; Hailu, Firaol Tesfaye; Bouamama, Sadok",
+      "venue": "2026 International Conference on Communication, Computing, Networking, and Control in Cyber-Physical Systems (CCNCPS): CCNCPS 2026 Early Track",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Hybrid Multi-Modal Cross-Attention Network for Melanoma and Multi-Class Skin Lesion Detection: Integrating Concentric Ring Analysis with Deep Visual Features",
+      "authors": "Benachour, Yassine; Tesfaye, Firaol; Teshome, Milki",
+      "venue": "2026 International Conference on Interactive Systems & Information Society Technologies (InterSys)",
+      "year": "2026",
+      "doi": "10.1109/InterSys69825.2026.11565202",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Hybrid CNN-LSTM Framework for Upper-Limb Motion Recognition Using Wearable IMU Sensors",
+      "authors": "Eshetu, Sifana Habtamu; Araya, Saron Tesfaye; Benachour, Yassine; Balcha, Abel Bekele; Damtie, Amanuel Addisu; Endale, Amanuel Mulugeta",
+      "venue": "2026 International Conference on Interactive Systems & Information Society Technologies (InterSys)",
+      "year": "2026",
+      "doi": "10.1109/InterSys69825.2026.11565250",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Multi-Output Machine Learning and RAG: A Decoupled Architecture for Privacy-Preserving Dermatological Assessment",
+      "authors": "Benachour, Yassine; Awlew, Samuel Tadesse; Beshah, Mathias Worku; Asfaw, Eyob Shimelis",
+      "venue": "2026 International Conference on Interactive Systems & Information Society Technologies (InterSys)",
+      "year": "2026",
+      "doi": "10.1109/InterSys69825.2026.11565291",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Ensemble and Deep Learning Frameworks for Modeling Skin Phenotypes from Genetic and Lifestyle Inputs",
+      "authors": "Maloukh, Lina; Geusens, Barbara; Benachour, Yassine",
+      "venue": "2026 14th International Conference on Bioinformatics and Computational Biology (ICBCB)",
+      "year": "2026",
+      "doi": "10.1109/ICBCB69424.2026.11621083",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Characterizing Proximal Kinematic Fatigue Profiles Using a Standalone IoMT Wrist Sensor",
+      "authors": "Saron Tesfaye Araya; Abel Bekele Balcha; Sifana Habtamu Eshetu; Amanuel Mulugeta Endale; Amanuel Addisu Damtie; Ammar Natsheh; Yassine Benachour",
+      "venue": "IoTMA-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Communication-Efficient Edge LSTM-Autoencoder for Anomaly Detection in Wearable Rehabilitation Monitoring",
+      "authors": "Abel Bekele Balcha; Amanuel Mulugeta Endale; Amanuel Addisu Damtie; Yassine Benachour",
+      "venue": "BE-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Cycle-Time Optimization of Reconfigurable Robotic Pick-and-Place Cells in a Digital Twin",
+      "authors": "Samuel Tadesse Awlew; Eyob Shimelis Asfaw; Matthias Worku Beshah; Ammar Natsheh; Yassine Benachour",
+      "venue": "IoTMA-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Closed-Loop Large Language Model Task Planning for a Simulated Mobile Manipulator: An Implementation Study and Honest Reliability Analysis",
+      "authors": "Firaol Tesfaye Hailu; Milki Teshome Feyera; Ammar Natsheh; Yassine Benachour",
+      "venue": "IoTMA-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Normative Kinematic Profiling of Upper-Limb Rehabilitation Exercises Using an Unsupervised LSTM Autoencoder Framework",
+      "authors": "Amanuel Addisu Damtie; Amanuel Mulugeta Endale; Abel Bekele Balcha; Saron Tesfaye Araya; Sifana Habtamu Eshetu; Ammar Natsheh; Yassine Benachour",
+      "venue": "BE-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Engineering-Driven Anomaly Detection for Spacecraft Telemetry",
+      "authors": "Amanuel Mulugeta Endale; Firaol Denu Lute; Abel Bekele Balcha; Sifana Habtamu Eshetu; Amanuel Addisu Damtie; Saron Tesfaye Araya; Yassine Benachour",
+      "venue": "STAE-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Cooling Performance Analysis of Different Fin Geometries for Passive Air-Cooled EV Motor Housings Under High Ambient Temperature",
+      "authors": "Mihretab Assefa Tilahun; Bereket Kebede Bedada; Nuhamin Denbel Gemeda; Ammar Natsheh; Yassine Benachour",
+      "venue": "PEII-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "PhysioTwin: Teaching, Verifying, and Grading Robotic Rehabilitation Exercises with a Single Consumer Smartwatch",
+      "authors": "Firaol Tesfaye Hailu; Milki Teshome Feyera; Moez Rehman; Yassine Benachour",
+      "venue": "IoTMA-2026 ASET",
+      "year": "2026",
+      "doi": "",
+      "type": "Conference",
+      "status": "Accepted"
+    },
+    {
+      "title": "Multi-Task Deep Learning and Interpretable Non-Linear Neural Interaction Modeling for Personalized Skin Concern Prediction",
+      "authors": "Benachour, Yassine; Maloukh, Lina; Bouamama, Sadok; Dghaim, Rania; Geusens, Barbara",
+      "venue": "Scientific Reports",
+      "year": "2026",
+      "doi": "10.1038/s41598-026-64005-w",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Machine Learning for Wearable Sensor-Based Human Movement Rehabilitation: A Five-Year Systematic Review",
+      "authors": "Benachour, Yassine; Flitti, Farid; Maloukh, Lina; Far, Amir B.; Boutellaa, El-Hadi; Bentoumi, Mohamed; El Rai, Mohamad Chafic; Aburaed, Nour; Ali, Khalid; Rehman, Moez; Mosleh, Sara; Dghaim, Rami; Bouamama, Said",
+      "venue": "IEEE Access",
+      "year": "2026",
+      "doi": "10.1109/ACCESS.2026.3707566",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Integrative Machine Learning of Genetic and Lifestyle Factors for Personalized Skin Health",
+      "authors": "Benachour, Yassine; Maloukh, Lina; Geusens, Barbara",
+      "venue": "IEEE Journal of Translational Engineering in Health and Medicine",
+      "year": "2026",
+      "doi": "10.1109/JTEHM.2026.3675676",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Comparative Analysis of Machine Learning Models for Wearable Rehabilitation Movement Classification and On-Device Deployment Feasibility",
+      "authors": "Araya, Saron Tesfaye; Eshetu, Sifana Habtamu; Endale, Amanuel Mulugeta; Damtie, Amanuel Addisu; Balcha, Abel Bekele; Rehman, Moez; Flitti, Farid; Benachour, Yassine",
+      "venue": "2025 10th International Conference on Information Technology Trends (ITT)",
+      "year": "2025",
+      "doi": "10.1109/ITT69610.2025.11352905",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Solar-Powered Hydroponic Microgreen Cultivation for Sustainable Agriculture",
+      "authors": "Balah, Mohamed; Binhaider, Khawla; Bawazir, Bashayer; Al Tawash, Kaltham; Abdulrahman, Hamda; Taheri, Shama; Benachour, Yassine; Natsheh, Ammar; Abu-Elzait, Sohad",
+      "venue": "2025 IEEE 53rd Photovoltaic Specialists Conference (PVSC)",
+      "year": "2025",
+      "doi": "10.1109/PVSC59419.2025.11132639",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "IOT Low-Cost Solar Energy System with Real-Time Data Logging",
+      "authors": "Balah, Mohamed; Alblooshi, Meera; Abdulla, Meera; Benachour, Yassine; Natsheh, Ammar; Abu-Elzait, Sohad",
+      "venue": "2025 IEEE 53rd Photovoltaic Specialists Conference (PVSC)",
+      "year": "2025",
+      "doi": "10.1109/PVSC59419.2025.11132796",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Predicting Skin Concern Severity From Genetic and Lifestyle Factors: A Comparative Multi-Output Machine Learning Framework",
+      "authors": "Benachour, Yassine; Maloukh, Lina; Bouamama, Sadok; Geusens, Barbara",
+      "venue": "IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/ACCESS.2025.3641629",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Towards improved human arm movement analysis: Advanced feature engineering and model optimization",
+      "authors": "Yassine Benachour; Moez Rehman; Farid Flitti",
+      "venue": "Engineering Applications of Artificial Intelligence",
+      "year": "2025",
+      "doi": "10.1016/j.engappai.2025.111194",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Enhancing Malaria Detection Through Deep Learning: A Comparative Study of Convolutional Neural Networks",
+      "authors": "Benachour, Yassine; Flitti, Farid; Khalid, Haris M.",
+      "venue": "IEEE Access",
+      "year": "2025",
+      "doi": "10.1109/ACCESS.2025.3542160",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Performance Evaluation of Deep Learning Models for Real-Time Trash Classification on Embedded Devices",
+      "authors": "Ahmed, Abduselam; Petros, Fanuel; Yemane, Tomas; Flitti, Farid; Benachour, Yassine",
+      "venue": "2024 7th International Conference on Signal Processing and Information Security (ICSPIS)",
+      "year": "2024",
+      "doi": "10.1109/ICSPIS63676.2024.10812636",
+      "type": "Conference",
+      "status": "Published"
+    },
+    {
+      "title": "Optimization of second-order nonlinear optical susceptibilities in 1D GaN photonic crystal",
+      "authors": "Yassine Benachour",
+      "venue": "Journal of Nonlinear Optical Physics & Materials",
+      "year": "2023",
+      "doi": "10.1142/S0218863523500078",
+      "type": "Journal",
+      "status": "Published"
+    },
+    {
+      "title": "Nonlinear Optics of Photonic Crystals",
+      "authors": "Benachour, Yassine",
+      "venue": "2020 Advances in Science and Engineering Technology International Conferences (ASET)",
+      "year": "2020",
+      "doi": "10.1109/ASET48392.2020.9118251",
+      "type": "Conference",
+      "status": "Published"
+    }
+  ],
+  "cv": "ACADEMIC PROFILE\nInterdisciplinary academic with over fifteen years of university teaching and research spanning applied physics, data science, and artificial intelligence. Research focuses on machine learning for health and human movement, generative AI and retrieval-augmented architectures, IoT-enabled sustainable systems, and photonic crystal optics. Principal Investigator on funded research and multi-institution collaborations across the UAE, Europe, and Africa. Fellow of the Higher Education Academy with extensive curriculum development and academic leadership experience, including course system leadership across seventeen campuses and programme development to national accreditation standards. Active peer reviewer for IEEE and Elsevier journals, and author of a forthcoming textbook with CRC Press (Taylor & Francis).\nRESEARCH INTERESTS\n1. Machine learning and deep learning for health: precision dermatology, genotype–phenotype modeling, medical image classification\n1. Generative AI and retrieval-augmented generation (RAG) architectures; explainable and privacy-preserving AI\n1. Wearable sensors and human movement analysis for rehabilitation; on-device and edge inference\n1. IoT-enabled sustainable systems: smart campuses, predictive maintenance, solar energy monitoring\n1. Nonlinear optics and photonic crystals; computational electromagnetics (FDTD, Monte Carlo)\nBIBLIOMETRIC SUMMARY\n161 citations | h-index 8 | i10-index 7 (Google Scholar, retrieved August 2026; 127 citations since 2021)\nEDUCATION\nPhD in Physics / Electronics — Université Paris-Saclay (Paris 11, Orsay), Institut d'Électronique Fondamentale, CNRS, France  |  2004 – 2008\n1. Thesis: “Optimisation de cristaux photoniques pour l'optique non linéaire” (Optimization of Photonic Crystals for Nonlinear Optics). Defended 11 April 2008, awarded with Honors. Available at tel.archives-ouvertes.fr/tel-00274814\nMSc, Optics, Electronics and Microsystems — Université de Metz and Supélec, France  |  2003 – 2004\nMSc, Financial Markets and Asset Management — CNAM and ESSEC, Paris, France  |  2014\nProfessional Education and Certification\n1. MIT Professional Education — Applied Data Science (2022): statistical methods, visualization, supervised and unsupervised learning, deep learning, CNNs, recommendation systems, Python capstone\n1. Fellow of the Higher Education Academy (FHEA) — Advance HE (2021)\n1. Project Management Professional (PMP®) — Project Management Institute (2020)\n1. Google Data Analytics Professional Certificate (2022) | Data Science on Cloud, Great Learning (2023)\n1. Blackboard Certified Specialist in Digital Teaching and Learning\nACADEMIC APPOINTMENTS\nLecturer, Faculty of Engineering — Lead, Applied AI and Data Science Initiatives — Higher Colleges of Technology (HCT), Dubai, UAE  |  Sep 2018 – Present\n1. Teach across Engineering Technology and Science: Data Science, Introduction to Artificial Intelligence, Statistics, Physics, Applied Programming (Python, C++), Project Management, Operations Research, and Economics for Engineering.\n1. Course System Leader for Project Management across 17 campuses; course developer for Data Science, Introduction to AI, Project Management, and Economics for Engineering.\n1. Physics Laboratory Chair, Dubai campus.\n1. Lead applied research programmes: SAGE (genetics and lifestyle machine learning for precision skin health) and REACH (wearable-sensor rehabilitation AI).\nAssistant Professor — University of Modern Sciences (UMS), College of Arts and Sciences, Dubai, UAE  |  Sep 2014 – Jun 2018\n1. Taught Physics I–II (mechanics, electricity and magnetism), College Algebra, Applied Mathematics, Calculus, Matrices and Linear Algebra, Statistics for Business, and Computer Programming (C++, Python).\nStrategy Management and Planning (concurrent appointment) — Al Durrah International School, Sharjah, UAE  |  Jan 2016 – Sep 2018\n1. Contributed to strategic educational planning and quality assurance aligned with UAE Ministry of Education frameworks; supported design of STEM curricula referencing NGSS and CCSS standards.\nAdjunct Assistant Professor — Zayed University, College of Natural and Health Sciences, Dubai, UAE  |  Jan 2018 – Jun 2018\n1. Taught General Physics I (PHY-201) and General Physics II (PHY-202).\nSummer Adjunct Assistant Professor — Emirates College of Technology (ECT), Abu Dhabi, UAE  |  Jul 2017 – Sep 2017\n1. Developed and submitted a new BSc Biotechnology programme to the UAE Ministry of Higher Education and Scientific Research (MOHESR), including full programme curriculum and syllabi for general and core requirement courses. Taught Python programming and Business Research Methods.\nAssistant Professor (ATER) — Université Paris 11 Orsay, Department of Microelectronics and Optoelectronic Components, Institut d'Électronique Fondamentale, France  |  Apr 2008 – Jan 2010\n1. Taught graduate and undergraduate physics: Introduction to Modern Optics (laser oscillation, optical resonators, radiation–atom interaction); Modern Physics (nanophysics, semiconductor nanostructures, nanotubes, molecular electronics, bioelectronics); Waves and Optics; Introduction to Computational Physics; Mathematical Methods in Physics.\nDoctoral Researcher — CNRS — Institut d'Électronique Fondamentale, Orsay, France  |  Sep 2004 – Mar 2008\n1. Modeling and simulation of nanophotonic structures in optical electromagnetics using Finite-Difference Time-Domain and Monte Carlo methods; developed models for field distribution in photonic structures (MATLAB, FORTRAN); cleanroom nanofabrication processes.\nINDUSTRY AND APPLIED EXPERIENCE\nBusiness Analyst and Project Manager roles — BNP Paribas CIB; Société Générale CIB; EDF — Paris, France  |  2008 – 2014\n1. Quantitative modeling, risk analytics, regulatory reporting (Dodd-Frank, EMIR), and enterprise system delivery; predictive modeling for electricity load and price forecasting and economic optimization of power-generation assets.\nRESEARCH FUNDING\nPrincipal Investigator — IoT-Enhanced Predictive Maintenance and Automation for Sustainable Smart Campuses — Higher Colleges of Technology institutional research grant  |  2026, 12 months, AED 50,000\n1. Design and deployment of an IoT-based smart HVAC prototype: sensor networks (temperature, humidity, vibration, occupancy), cloud data processing (AWS IoT / Google Cloud), and machine learning for anomaly detection and predictive maintenance; performance evaluation, scalability assessment, and integration of outcomes into curriculum as applied case studies.\nRESEARCH PROGRAMMES AND COLLABORATIONS\n1. SAGE — Skin and Genomics Engineering (AI): Principal Investigator. Machine learning integrating genetic and lifestyle data (cohort of 5,000+ subjects) to model skin phenotypes and gene–environment interactions; emphasis on interpretable, multi-output, and multi-task architectures.\n1. REACH — Rehabilitation and AI for Clinical Health: wearable IMU sensor analytics for human movement classification, rehabilitation monitoring, and on-device deployment feasibility.\n1. Explainable AI platform for skin-cancer detection using retrieval-augmented generation: Principal Investigator, with Zayed University, American University of Sharjah, American Hospital Dubai, Nomige (Belgium), and Derma Clinic Dubai.\n1. International collaborators: Nomige (Belgium); institutions and co-authors in the UAE, France, Algeria, and Ethiopia.\nPUBLICATIONS\nAuthor name variants: Y. Benachour; B. Yassine (indexing error, ICISIS 2026 melanoma paper).\nBook\n1. Y. Benachour, Data Science for Engineering: Principles, Tools, and Applications Across Disciplines, CRC Press, Taylor & Francis Group. ISBN 9781041276258. (In production.)\nPeer-Reviewed Journal Articles\n1. Y. Benachour, L. Maloukh, S. Bouamama, R. Dghaim, B. Geusens, “Multi-task deep learning and interpretable non-linear neural interaction modeling for personalized skin concern prediction,” Scientific Reports, 2026.\n1. Y. Benachour, L. Maloukh, B. Geusens, “Integrative Machine Learning of Genetic and Lifestyle Factors for Personalized Skin Health,” IEEE Journal of Translational Engineering in Health and Medicine, 2026.\n1. Y. Benachour, F. Flitti, L. Maloukh, A. B. Far, E. Boutellaa, M. Bentoumi, et al., “Machine Learning for Wearable Sensor-Based Human Movement Rehabilitation: A Five-Year Systematic Review,” IEEE Access, 2026.\n1. Y. Benachour, L. Maloukh, S. Bouamama, B. Geusens, “Predicting Skin Concern Severity From Genetic and Lifestyle Factors: A Comparative Multi-Output Machine Learning Framework,” IEEE Access, vol. 13, pp. 207672–207693, 2025. doi:10.1109/ACCESS.2025.3641629\n1. Y. Benachour, M. ur Rehman, F. Flitti, “Towards improved human arm movement analysis: Advanced feature engineering and model optimization,” Engineering Applications of Artificial Intelligence, vol. 156, p. 111194, 2025. doi:10.1016/j.engappai.2025.111194\n1. Y. Benachour, F. Flitti, H. M. Khalid, “Enhancing Malaria Detection Through Deep Learning: A Comparative Study of Convolutional Neural Networks,” IEEE Access, vol. 13, pp. 35452–35477, 2025. doi:10.1109/ACCESS.2025.3542160\n1. Y. Benachour, “Optimization of second-order nonlinear optical susceptibilities in 1D GaN photonic crystal,” Journal of Nonlinear Optical Physics & Materials, vol. 32, no. 1, 2350007, 2023. doi:10.1142/S0218863523500078\n1. Y. Benachour, N. Paraire, “Characterization of planar photonic crystals using surface coupling techniques at large wavelengths,” Chinese Optics Letters, vol. 5, no. 9, pp. 501–503, 2007.\n1. N. Paraire, Y. Benachour, “Investigation of planar photonic crystal band diagrams under the light cone using surface coupling techniques,” Applied Physics B, vol. 89, no. 2, pp. 245–250, 2007.\nPeer-Reviewed Conference Papers\n1. Y. Benachour, S. T. Awlew, M. W. Beshah, E. S. Asfaw, “Multi-Output Machine Learning and RAG: A Decoupled Architecture for Privacy-Preserving Dermatological Assessment,” International Conference on Interactive Systems and Information Society (ICISIS), 2026.\n1. S. H. Eshetu, S. T. Araya, Y. Benachour, A. B. Balcha, A. A. Damtie, A. M. Endale, “Hybrid CNN-LSTM Framework for Upper-Limb Motion Recognition Using Wearable IMU Sensors,” ICISIS, 2026.\n1. Y. Benachour (indexed as B. Yassine), T. Firaol, T. Milki, “Hybrid Multi-Modal Cross-Attention Network for Melanoma and Multi-Class Skin Lesion Detection: Integrating Concentric Ring Analysis with Deep Visual Features,” ICISIS, 2026.\n1. L. Maloukh, B. Geusens, Y. Benachour, “Ensemble and Deep Learning Frameworks for Modeling Skin Phenotypes from Genetic and Lifestyle Inputs,” 14th International Conference on Bioinformatics and Computational Biology, 2026.\n1. S. T. Araya, S. H. Eshetu, A. M. Endale, A. A. Damtie, A. B. Balcha, M. Rehman, F. Flitti, Y. Benachour, “Comparative Analysis of Machine Learning Models for Wearable Rehabilitation Movement Classification and On-Device Deployment Feasibility,” 10th International Conference on Information Technology Trends (ITT), IEEE, 2025.\n1. M. Balah, M. Alblooshi, M. Abdulla, Y. Benachour, A. Natsheh, S. Abu-Elzait, “IoT Low-Cost Solar Energy System with Real-Time Data Logging,” 53rd IEEE Photovoltaic Specialists Conference (PVSC), Montreal, pp. 0936–0939, 2025. doi:10.1109/PVSC59419.2025.11132796\n1. M. Balah, K. Binhaider, B. Bawazir, K. Al Tawash, H. Abdulrahman, S. Taheri, Y. Benachour, A. Natsheh, S. Abu-Elzait, “Solar-Powered Hydroponic Microgreen Cultivation for Sustainable Agriculture,” 53rd IEEE PVSC, Montreal, pp. 1079–1082, 2025. doi:10.1109/PVSC59419.2025.11132639\n1. A. Ahmed, F. Petros, T. Yemane, F. Flitti, Y. Benachour, “Performance Evaluation of Deep Learning Models for Real-Time Trash Classification on Embedded Devices,” 7th International Conference on Signal Processing and Information Security (ICSPIS), Dubai, pp. 1–6, 2024. doi:10.1109/ICSPIS63676.2024.10812636\n1. Y. Benachour, “Nonlinear Optics of Photonic Crystals,” Advances in Science and Engineering Technology International Conferences (ASET), Dubai, pp. 1–8, 2020. doi:10.1109/ASET48392.2020.9118251\n1. N. Paraire, Y. Benachour, L. Nevou, “Observation of band structure and reduced group velocity area in SOI 2D planar photonic crystals,” Integrated Photonics and Nanophotonics Research and Applications, JTuA2, 2007.\n1. Y. Benachour, N. Paraire, D. Pascal, “Caractérisation de structures photoniques planaires par ellipsométrie spectroscopique aux grandes longueurs d'onde,” Journées de la Matière Condensée (JMC10), 2006.\nThesis\n1. Y. Benachour, “Optimisation de cristaux photoniques pour l'optique non linéaire,” PhD thesis, Université Paris 11 Orsay, 2008. tel.archives-ouvertes.fr/tel-00274814\nEDITORIAL AND PEER-REVIEW SERVICE\n1. Reviewer, IEEE Journal of Biomedical and Health Informatics (JBHI)\n1. Reviewer, Engineering Applications of Artificial Intelligence (Elsevier)\n1. Reviewer and author for IEEE conference proceedings in signal processing, information technology, and photovoltaics\n1. Available for editorial board service, guest editing of special issues, and technical programme committee membership in applied AI, machine learning for health, and engineering education\nTEACHING EXPERIENCE\nCourses Taught\n1. Data science and AI: Data Science, Introduction to Artificial Intelligence, Machine Learning fundamentals, Data Analytics\n1. Computing: Applied Programming for Engineers (Python, C++), Java, Databases and SQL, Enterprise Information Management, Business Research Methods\n1. Mathematics and statistics: Calculus I/II, College Algebra, Applied Mathematics, Matrices and Linear Algebra, Statistics, Statistics for Business, Mathematical Methods in Physics\n1. Physics: Physics I–II (mechanics, electricity, magnetism), General Physics (PHY-201/202), Waves and Optics, Introduction to Modern Optics, Modern Physics (nanophysics and nanotechnology), Optoelectronics, Physics of Semiconductors and Devices, Computational Physics\n1. Engineering and management: Project Management (aligned to CAPM® certification), Economics for Engineering, Operations Research, Decision and Risk Analysis, Queuing Theory\nTeaching Practice\n1. Active learning through project-based assignments, Python and Jupyter case studies, laboratory experimentation, and interactive tools (Kahoot, Nearpod); blended and online delivery as a Blackboard Certified Specialist.\n1. Assessment design combining critical reasoning with computational modeling, supporting progression from conceptual understanding to data-driven application.\nCURRICULUM DEVELOPMENT AND ACADEMIC LEADERSHIP\n1. Course System Leader, Project Management — standardization of curriculum, assessment, and delivery quality across 17 HCT campuses.\n1. Course developer: Data Science, Introduction to AI, Project Management, Economics for Engineering.\n1. Physics Laboratory Chair, HCT Dubai campus.\n1. Developed a complete BSc Biotechnology programme submitted to MOHESR for national accreditation (Emirates College of Technology).\n1. Contributed to strategic planning and quality assurance aligned with UAE Ministry of Education frameworks, and to STEM curriculum design referencing NGSS and CCSS standards (Al Durrah International School).\nSUPERVISION AND MENTORING\n1. Supervise undergraduate capstone and applied research projects in machine learning, computer vision, wearable sensing, and IoT; multiple student teams have published as co-authors at IEEE conferences (ICSPIS 2024, PVSC 2025, ITT 2025, ICISIS 2026).\n1. Mentor early-career researchers and international collaborators across the UAE, Belgium, and Ethiopia.\n1. Selection and supervision of master's students, research assistance, and internship supervision.\nPROFESSIONAL MEMBERSHIPS AND SERVICE\n1. Member, IEEE\n1. Fellow, Higher Education Academy (Advance HE)\n1. Member, Project Management Institute (PMI)\n1. Institutional committee service and conference committee participation (details available on request)\nTECHNICAL SKILLS\n1. Programming and analysis: Python, R, MATLAB, SQL/T-SQL, C++, Java, C#/.NET, VBA, FORTRAN\n1. Machine learning: scikit-learn, TensorFlow, LightGBM, CNN and LSTM architectures, ensemble methods, explainable AI, retrieval-augmented generation\n1. Cloud and platforms: AWS SageMaker, AWS IoT, Azure ML, Google Cloud; Blackboard LMS; Git\n1. Analysis and visualization: Power BI, Tableau, Excel; Monte Carlo simulation, time-series modeling, FDTD electromagnetic simulation\nLANGUAGES\n1. French (native) | Arabic (native) | English (professional)"
+}
